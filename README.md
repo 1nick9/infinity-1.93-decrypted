@@ -2,6 +2,8 @@ vibed again. but i knew there was a path to decrypt this from what found, i just
 
 expect mistakes as with all vibe
 
+decrypt should be all good though. i knew how to attack that from what fucked round n learnt n gathered. just fucked if i could actually walk path. note on vibed is round its assumed summary of code. the decrypt should be good
+
 
 this is not the fpga dump. just eeprom n update disc.
 
