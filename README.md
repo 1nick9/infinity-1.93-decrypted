@@ -3,6 +3,8 @@ vibed again. but i knew there was a path to decrypt this from what found, i just
 expect mistakes as with all vibe
 
 
+this is not the fpga dump. just eeprom n update disc.
+
 
 # Infinity 1.93 — decrypted core, patch blobs and signatures
 
