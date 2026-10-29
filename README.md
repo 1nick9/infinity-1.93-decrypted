@@ -1,3 +1,9 @@
+vibed again. but i knew there was a path to decrypt this from what found, i just couldn't actually do it :)
+
+expect mistakes as with all vibe
+
+
+
 # Infinity 1.93 — decrypted core, patch blobs and signatures
 
 Naming follows **Infinity 1.93 Core — Reading Guide**. This package covers the three public
